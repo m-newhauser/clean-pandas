@@ -1,6 +1,6 @@
 # Clean Pandas
 
-This repository contains the supporting code for my Medium article **The ultimate reference to clean pandas code**. 
+This repository contains the supporting code for my Medium article, [The ultimate reference for clean Pandas code](https://towardsdatascience.com/the-ultimate-reference-for-clean-pandas-code-413df676e63c). 
 
 ## Description
 
